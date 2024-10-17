@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shiyuan Wang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shiyuan Wang"
 description              : &description "personal description"
-url                      : https://shiyuanwang11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shiyuanwang11.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiyuanwang11/shiyuanwang11.github.io"
 
@@ -212,16 +212,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false #true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false #true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false #true
     permalink: /:collection/:path/
 
 
