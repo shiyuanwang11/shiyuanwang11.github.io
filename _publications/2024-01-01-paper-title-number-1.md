@@ -1,12 +1,9 @@
 ---
-title: "Measuring the cosmic gorwth rate with CSST spectroscopic survey and Fast Radio Bursts."
+title: "Constraints on Evolutions of Fundamental Constants from Clustering of Fast Radio Burst Dispersion Measure"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-01-paper-title-number-1
-excerpt: 'This paper is under review.'
-date: 2024-01-01
-venue: 'XXX'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'Accepted by ApJ.'
+date: 2025-03-21
+paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/adba4a'
 citation: 'Shiyuan Wang, Junqing Xia*. (2024).'
 ---
