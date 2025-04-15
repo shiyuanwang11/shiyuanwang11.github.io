@@ -1,2 +1,2 @@
-WELOCOME TO MY PAGE!!
+WELCOME TO MY PAGE!!
 🥳 https://shiyuanwang11.github.io/
